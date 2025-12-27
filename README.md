@@ -109,7 +109,7 @@ GitHub Push → AWS CodePipeline Trigger → EventBridge/CloudWatch Events
 
 ### Quick Start
 
-1. **Sign up** at [pipechecks.io](https://pipechecks.io)
+1. **Sign up** at [pipechecks.io](https://www.pipechecks.io)
 2. **Connect your AWS account** using our secure IAM role
 3. **Link your GitHub repositories** via OAuth
 4. **Select pipelines to monitor** from your AWS account
@@ -217,7 +217,7 @@ This repository contains organizational configuration files for the PipeChecks G
 
 ## 🔗 Links
 
-- **Website**: [pipechecks.io](https://pipechecks.io)
+- **Website**: [pipechecks.io](https://www.pipechecks.io)
 - **Documentation**: [docs.pipechecks.io](https://docs.pipechecks.io)
 - **Status Page**: [status.pipechecks.io](https://status.pipechecks.io)
 - **Support**: [support@pipechecks.io](mailto:support@pipechecks.io)
