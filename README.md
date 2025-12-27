@@ -179,7 +179,7 @@ PipeChecks requires read-only access to CodePipeline executions and stages. We p
 Failed pipeline checks include links to detailed logs and error messages. You can also jump directly to the AWS Console view for that specific execution if needed.
 
 ### Is there a free trial?
-Yes! We offer a 14-day free trial with full access to all features. No credit card required.
+Yes! We offer a 30-day free trial with full access to all features. No credit card required.
 
 ### What's your uptime SLA?
 PipeChecks maintains 99.9% uptime SLA for all paid plans, with redundant infrastructure across multiple AWS regions.
