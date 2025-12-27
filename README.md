@@ -240,6 +240,6 @@ Need help? We're here for you!
 
 **Made with ❤️ for developers who love GitHub and AWS**
 
-**[Get Started Free](https://pipechecks.io)** • **[View Demo](https://pipechecks.io/demo)** • **[Read Docs](https://docs.pipechecks.io)**
+**[Get Started Free](https://www.pipechecks.io)** • **[View Demo](https://www.pipechecks.io/demo)** • **[Read Docs](https://docs.pipechecks.io)**
 
 </div>
